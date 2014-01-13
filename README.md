@@ -1,10 +1,8 @@
 ECE281_CE1
 ==========
 
-first circuit thing
+First Circuit Thing
 
 # Truth Table
-
 # Image of Testbench Waveform
-
 # Analysis
