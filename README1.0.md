@@ -10,4 +10,4 @@ Lab1
 #Testbench
 ![Alt Text](https://github.com/RyanRedhead/ECE-281-Lab-1/blob/master/desktop/ECE%20281/testbench%20picture.PNG?raw=true)
 #Why the Waveforms are correct
-
+The truth table matches the waveform diagram.
