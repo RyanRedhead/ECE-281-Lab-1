@@ -46,7 +46,7 @@ begin
 A_NOT <= not A;
 B_NOT <= not B;
 C_NOT <= not C;
-D <= A and B_NOT and C;
+D <= A and B_NOT and C_NOT;
 E <= A_NOT and B;
 F <= A_NOT and C;
 X <= D or E or F;
